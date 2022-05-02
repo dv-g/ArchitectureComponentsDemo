@@ -14,4 +14,4 @@ This project also demonstrate usage of following plugins:
 * Hilt(Dagger)
 
 ## Author
-Developed by DV.
+Developed by DW.
